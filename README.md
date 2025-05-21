@@ -54,7 +54,7 @@ Con EncriptX puedes:
 ## 🧑‍💻 Autor y Contacto
 
 - GitHub: [https://github.com/atunfrito](https://github.com/atunfrito)
-- Autor: **Denis Gabriel Nuta**
+- Autor: **AtunFrito**
 
 ---
 
