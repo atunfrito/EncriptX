@@ -2,8 +2,6 @@
 
 EncriptX es una aplicación moderna y visualmente personalizable para cifrar y descifrar texto de forma sencilla, utilizando algoritmos como **Fernet (AES)**, **Base64** y **texto invertido**. Ideal para proteger información de manera clara y visualmente atractiva.
 
-![EncriptX Banner](https://github.com/atunfrito/encriptx/assets/banner.png) <!-- (Opcional: reemplaza o elimina esta línea si agregas una imagen decorativa) -->
-
 ---
 
 ## 🚀 ¿Qué hace EncriptX?
