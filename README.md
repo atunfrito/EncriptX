@@ -34,7 +34,7 @@ Con EncriptX puedes:
 - **Dependencias:**
   - `PyQt5`
   - `cryptography`
-- **Sistema compatible:** Windows (también funciona en Linux/macOS con Python)
+- **Sistema compatible:** Windows 7-11
 - **Ejecutable:** Puedes empaquetarlo con `auto-py-to-exe` si deseas crear un `.exe`.
 
 ## 🎨 Personalización
