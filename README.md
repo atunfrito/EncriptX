@@ -1,66 +1,64 @@
-🔐 EncriptX: Cifra y Descifra Texto de Forma Segura y Estética
-EncriptX es una aplicación moderna y visualmente personalizable para cifrar y descifrar texto de forma sencilla utilizando algoritmos como Fernet (AES), Base64 y texto invertido. Perfecta para quienes buscan proteger información con estilo y sin complicaciones.
+# 🔐 EncriptX: Cifra y Descifra Texto de Forma Segura y Estética
 
-🚀 ¿Qué hace EncriptX?
+EncriptX es una aplicación moderna y visualmente personalizable para cifrar y descifrar texto de forma sencilla, utilizando algoritmos como **Fernet (AES)**, **Base64** y **texto invertido**. Ideal para proteger información de manera clara y visualmente atractiva.
+
+![EncriptX Banner](https://github.com/atunfrito/encriptx/assets/banner.png) <!-- (Opcional: reemplaza o elimina esta línea si agregas una imagen decorativa) -->
+
+---
+
+## 🚀 ¿Qué hace EncriptX?
+
 Con EncriptX puedes:
 
-Cifrar y descifrar textos de forma segura.
+- 🔒 Cifrar y descifrar textos con múltiples métodos.
+- 🛡️ Generar claves seguras automáticamente.
+- 📊 Ver la seguridad de tu clave en tiempo real.
+- 🎨 Cambiar entre temas claros, oscuros y personalizados.
+- ✨ Usar una interfaz intuitiva con animaciones y detalles visuales.
+- 📋 Copiar fácilmente los resultados al portapapeles.
 
-Usar el algoritmo Fernet (AES), Base64 o invertir el texto.
+---
 
-Generar claves seguras automáticamente.
+## 🔧 Funcionalidades de EncriptX
 
-Ver en tiempo real la seguridad de tu clave con una barra de progreso.
+- Interfaz gráfica amigable desarrollada con PyQt5.
+- Soporte para temas oscuros, claros y personalizados.
+- Barra de progreso y mensajes de estado en tiempo real.
+- Guardado/carga de temas desde archivos `.json`.
+- Iconos y accesibilidad mejorada.
+- Sin almacenamiento de datos ni claves: 100% local.
 
-Copiar fácilmente el resultado cifrado o descifrado.
+---
 
-Personalizar completamente el diseño: temas, colores, tamaño de fuente y modo claro/oscuro.
+## ⚙️ Características Técnicas
 
-🔧 Funcionalidades de EncriptX
-Interfaz gráfica amigable hecha con PyQt5.
+- **Lenguaje:** Python 3.10+
+- **Dependencias:**
+  - `PyQt5`
+  - `cryptography`
+- **Sistema compatible:** Windows (también funciona en Linux/macOS con Python)
+- **Ejecutable:** Puedes empaquetarlo con `auto-py-to-exe` si deseas crear un `.exe`.
 
-Temas oscuros y claros integrados + personalización total de colores.
+## 🎨 Personalización
 
-Generador de claves aleatorias seguras.
+- Cambia el tema con un solo clic: claro 🌞 u oscuro 🌙.
+- Usa el botón de pincel 🖌️ para definir tu propia paleta de colores.
+- Guarda tus temas en JSON y compártelos con otros usuarios.
 
-Indicador visual de la seguridad de la clave.
+---
 
-Guardado y carga de temas personalizados en archivos .json.
+## 💡 Nota Importante
 
-Animaciones suaves y efectos visuales.
+🔐 **EncriptX no almacena información.** Todo el procesamiento ocurre localmente y de forma temporal en tu dispositivo.
 
-Modo portable: sin instalación de dependencias externas ni base de datos.
+---
 
-⚙️ Características Técnicas
-Lenguaje de programación: Python 3.10+
+## 🧑‍💻 Autor y Contacto
 
-Librerías utilizadas:
+- GitHub: [https://github.com/atunfrito](https://github.com/atunfrito)
+- Autor: **Denis Gabriel Nuta**
 
-PyQt5 para la interfaz
+---
 
-cryptography (Fernet) para cifrado fuerte
-
-base64 y funciones estándar para métodos adicionales
-
-Sistema operativo: Windows (funciona también en Linux y macOS con Python configurado)
-
-Icono: encriptx.ico
-
-🖌️ Personalización
-Cambia entre temas claros y oscuros.
-
-Crea tu propio tema con colores personalizados.
-
-Guarda y carga configuraciones de estilo desde archivos .json.
-
-💡 Nota Importante
-EncriptX no almacena ninguna clave ni texto ingresado. Todo el cifrado y descifrado ocurre localmente en tu dispositivo.
-
-🧑‍💻 Contacto y Soporte
-GitHub: https://github.com/atunfrito
-
-Autor: AtunFrito
-
-¿Quieres proteger tus textos con estilo?
-¡Entonces EncriptX es para ti! 💼🔒
-
+¿Te gusta proteger lo tuyo con estilo?  
+¡Entonces EncriptX es para ti! 💼✨
