@@ -1,4 +1,4 @@
-# 🔐 EncriptX: Cifra y Descifra Texto de Forma Segura
+# 🔐 EncriptX: Cifra y Descifra de Forma Segura
 
 EncriptX es una aplicación moderna y visualmente personalizable para cifrar y descifrar texto de forma sencilla, utilizando algoritmos como **Fernet (AES)**, **Base64** y **texto invertido**. Ideal para proteger información de manera clara y visualmente atractiva.
 
@@ -8,7 +8,7 @@ EncriptX es una aplicación moderna y visualmente personalizable para cifrar y d
 
 Con EncriptX puedes:
 
-- 🔒 Cifrar y descifrar textos con múltiples métodos.
+- 🔒 Cifrar y descifrar textos y archivos con múltiples métodos.
 - 🛡️ Generar claves seguras automáticamente.
 - 📊 Ver la seguridad de tu clave en tiempo real.
 - 🎨 Cambiar entre temas claros, oscuros y personalizados.
